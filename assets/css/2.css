@@ -1,0 +1,15 @@
+.box1 {
+    background: #3498db;
+    float: right;
+}
+
+.box2 {
+    background: #d35400;
+    clear: right;
+    float: right;
+}
+
+.box3 {
+    background: #1abc9c;
+    clear: both;
+}
